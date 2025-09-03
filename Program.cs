@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this is and update!");
+            Console.WriteLine("this is second update!");
         }
     }
 }
